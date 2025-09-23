@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Creative Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "76397c15-10b0-5cbd-67aa-ce00ccda9cbc",
+  "instructors": {
+    "content": [
+      "cc08dcc9-8e9d-b835-0328-f12dd11a44a3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "65e91238-eb64-06c0-b468-ab303766f048",
+    "website": "21w-775-writing-about-nature-and-environmental-issues-fall-2006"
+  },
+  "course_title": "Writing about Nature and Environmental Issues",
+  "course_description": "This course focuses on traditional nature writing and the environmentalist essay. Students will keep a Web log as a journal. Writings are drawn from the tradition of nature writing and from contemporary forms of the environmentalist essay.\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.775",
+  "course_image_thumbnail": {
+    "content": "bb8f4f67-db38-1eb4-9efe-3f0190fa9d5f",
+    "website": "21w-775-writing-about-nature-and-environmental-issues-fall-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "49a6d6a5-1250-42dd-9c55-4a44029c9a97",
+  "site_short_id": "21w.775-fall-2006",
+  "site_url_path": "courses/21w-775-writing-about-nature-and-environmental-issues-fall-2006",
+  "title": "Course Metadata"
+}
