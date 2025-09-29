@@ -1,5 +1,7 @@
 ---
 content_type: page
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 title: Assignments
@@ -11,7 +13,7 @@ Essay 1
 
 For your first essay, I want you to continue to explore the question: What is nature?
 
-The kind of thinking I am asking you to write your way into is NOT best served by the traditional academic paper or the 5-paragraph essay, but by the popular essay, which allows a combination of personal voice, storytelling, and philosophical thought. We will be talking more about this in class next week. (Keep in mind the examples I passed out, the essay by Mary Oliver and the essay about Katrina.) You may want to read the online journal {{% resource_link "ec4631cf-117b-41d2-9a4c-ba04db8028bb" "_Watershed_" %}}, which is edited by Brown and RISD undergraduates. _Watershed_ is an excellent source of contemporary nature writing/environmental essaying.
+The kind of thinking I am asking you to write your way into is NOT best served by the traditional academic paper or the 5-paragraph essay, but by the popular essay, which allows a combination of personal voice, storytelling, and philosophical thought. We will be talking more about this in class next week. (Keep in mind the examples I passed out, the essay by Mary Oliver and the essay about Katrina.) You may want to read the online journal [_Watershed_](http://issuu.com/watershed_journal/docs/western_issue_spring2010), which is edited by Brown and RISD undergraduates. _Watershed_ is an excellent source of contemporary nature writing/environmental essaying.
 
 You should remember that the essay moves between personal experience and ideas, from concrete to abstract, from intimacy with the reader to confrontation with difficult issues. Graham Good, a scholar of the essay as a form, says that "in the essay, the writer finds a pattern in the world, and the world finds a pattern in the writer"; you may wish to keep this in mind.
 
