@@ -5,8 +5,6 @@ description: Reflection of trees in a pond with branches poking through the wate
 file: /courses/21w-775-writing-about-nature-and-environmental-issues-fall-2006/4c8fcf3ad044ab392efc6d7f23d4a8e8_chp_pond.jpg
 file_size: 31770
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

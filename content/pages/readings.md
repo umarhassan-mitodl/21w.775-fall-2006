@@ -22,9 +22,9 @@ Sullivan, Robert. _Rats: Observations on the History and Habitat of the City's M
 Films
 -----
 
-_[Grizzly Man](http://www.imdb.com/title/tt0427312/)_. Directed and written by Werner Herzog, 2005.
+_{{% resource_link "d0f17da9-9f19-4824-98a6-b34174c2f0af" "Grizzly Man" %}}_. Directed and written by Werner Herzog, 2005.
 
-_[Nausicaä](http://www.imdb.com/title/tt0087544/)_. Directed by Hayao Miyazaki, 1984.
+_{{% resource_link "2042c6ee-0578-40f0-9320-2d9acf62beff" "Nausicaä" %}}_. Directed by Hayao Miyazaki, 1984.
 
 Readings and Films by Session
 -----------------------------
@@ -113,7 +113,7 @@ Film: _Nausicaä_
 {{< tdopen >}}
 
 
-[The Book of Revelation](http://www.gutenberg.org/etext/8066) (from the Bible)
+{{% resource_link "8e4a9ce1-40a7-4131-bcb9-837ddf00f3e0" "The Book of Revelation" %}} (from the Bible)
 
 
 {{< tdclose >}}
